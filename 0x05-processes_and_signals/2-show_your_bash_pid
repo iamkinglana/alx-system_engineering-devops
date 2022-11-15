@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# displays info containing bash
 ps u | grep bash
 # shellcheck disable=SC2009
